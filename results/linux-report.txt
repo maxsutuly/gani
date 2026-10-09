@@ -1,0 +1,32 @@
+PRACTICAL WORK: Linux Environment
+Fri Oct  9 18:16:00 UTC 2026
+=== Operating System ===
+PRETTY_NAME="Ubuntu 24.04.5 LTS"
+NAME="Ubuntu"
+VERSION_ID="24.04"
+VERSION="24.04.5 LTS (Noble Numbat)"
+VERSION_CODENAME=noble
+ID=ubuntu
+ID_LIKE=debian
+HOME_URL="https://www.ubuntu.com/"
+SUPPORT_URL="https://help.ubuntu.com/"
+BUG_REPORT_URL="https://bugs.launchpad.net/ubuntu/"
+PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"
+UBUNTU_CODENAME=noble
+LOGO=ubuntu-logo
+=== Hostname ===
+codespaces-d1a262
+=== Disk Space ===
+Filesystem      Size  Used Avail Use% Mounted on
+overlay          32G   11G   19G  37% /
+tmpfs            64M     0   64M   0% /dev
+shm              64M     0   64M   0% /dev/shm
+/dev/root        29G   14G   16G  48% /vscode
+/dev/loop4       32G   11G   19G  37% /workspaces
+/dev/sdc1        44G  3.0G   39G   8% /tmp
+=== Memory ===
+               total        used        free      shared  buff/cache   available
+Mem:           7.8Gi       1.8Gi       538Mi        63Mi       5.8Gi       5.9Gi
+Swap:             0B          0B          0B
+=== User ===
+codespace
